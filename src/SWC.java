@@ -7,4 +7,12 @@ public class SWC {
 
 
 
+
+
+
+
+    public void test(){
+        System.out.println("test");
+    }
+
 }
